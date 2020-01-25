@@ -1,0 +1,12 @@
+h1 {
+  color:rgb(81,124,95);
+  padding:30px;
+  font-family: 'Sedgwick Ave', cursive;
+}
+
+p {
+  text-align:center;
+  color:rgb(81,124,95);
+  font-family: 'Dosis', sans-serif;
+  font-size:22px;
+}
