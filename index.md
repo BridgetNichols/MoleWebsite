@@ -50,7 +50,7 @@
                </ul>
 
                <center><strong><h1 class="animated fadeInUp fast" style="animation-delay:6.5s">Why do we use moles?</h1></strong></center>
-               <center><p class="animated fadeInUp fast" style="animation-delay:7s;">As was stated before, moles were created as an adequate way to measure particles. Particles are very small. They make up our entire world, and although they aren't the smallest things that make up our world, they are still very small. To put this into perspectice, there are more atoms(another word for particle) in one grain of salt than there is grains of sand in all of the beaches of the world.</p></center>
+               <center><p class="animated fadeInUp fast" style="animation-delay:7s;">As was stated before, moles were created as an adequate way to measure particles. Particles are very small. They make up our entire world, and although they aren't the smallest things that make up our world, they are still very small. To put this into perspectice, there are more atoms(another word for particle) in one grain of salt than there is grains of sand in all of the beaches of the world. Single atoms or particles are far too small to be measured or weighed we have to work with lots of them in order </p></center>
 
           </div>
 
