@@ -4,7 +4,7 @@ h1 {
   font-family: 'Sedgwick Ave', cursive;
 }
 
-p {
+p, li {
   text-align:center;
   color:rgb(81,124,95);
   font-family: 'Dosis', sans-serif;
